@@ -1,6 +1,10 @@
 # Blog-Website-Flask
 
-The following images give the line by line description of code written in the .py files in flaskblog folder. The website is deployed on Heroku and live demo of the application can be seen [here](https://blog-website-flask.herokuapp.com)
+The website is deployed on Heroku and live demo of the application can be seen [here](https://blog-website-flask.herokuapp.com)
+
+[Clcik here](https://drive.google.com/file/d/13xHzNIdK-R5VXma4WSsCt1nZkBaE9c7w/view?usp=sharing) to get the pdf for the images
+
+The following images give the line by line description of code written in the .py files in flaskblog folder. 
 
 ![WhatsApp Image 2020-05-06 at 10 59 58 PM](https://user-images.githubusercontent.com/57843558/81209680-7a982080-8fee-11ea-9fe0-9703acf3376b.jpeg)
 
