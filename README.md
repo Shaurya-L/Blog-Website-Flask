@@ -10,7 +10,7 @@ Entire application has been created using Python and Flask at the backend and HT
 Just follow the below steps in order to run this web app offline on your computer.
 1) Clone the repository on the system and download the .zip file of the repositry and unzip the file
 2) Open the terminal. Ensure that Python3 and pip is installed on the system. 
-3) Type cd **'directory in which the app.py file is stored'**. **DO NOT** forget to enclose the directory within the quotation marks. 
+3) Type cd **'directory in which the run.py file is stored'**. **DO NOT** forget to enclose the directory within the quotation marks. 
 4) Enter "**pip install -r requirements.txt**" to install all the libraries used in the project.
 5) Enter "**python app.py**" from the terminal.
 6) The application is running on your terminal. Just open the displayed URL (on terminal) on your web browser. The URL won't be displayed if there is an error in the application
