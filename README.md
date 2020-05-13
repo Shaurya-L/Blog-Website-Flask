@@ -15,6 +15,6 @@ Just follow the below steps in order to run this web app offline on your compute
 5) Enter "**python app.py**" from the terminal.
 6) The application is running on your terminal. Just open the displayed URL (on terminal) on your web browser. The URL won't be displayed if there is an error in the application
 
-**Note**: [Project Documentation](https://github.com/Shaurya-L/Blog-Website-Django/blob/master/django_project/Project%20Documentation.pdf) file consists of line by line explanation of all the Python code written in the web app. Refer that file incase a particular part of the code is unclear.
+**Note**: [Project Documentation](https://github.com/Shaurya-L/Blog-Website-Flask/blob/master/Project%20Documentation.pdf) file consists of line by line explanation of all the Python code written in the web app. Refer that file incase a particular part of the code is unclear.
 
 In case you don't understand anything feel free to contact me at **shauryaluthra689@gmail.com**
